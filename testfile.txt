@@ -1,6 +1,10 @@
 testfile.txt
 
-some modification 1
+adding something and pushing to upstream directly.
+
+some modification 1 (changed)
+
+here too.
 
 some amended thing (amended again)
 
