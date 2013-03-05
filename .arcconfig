@@ -1,5 +1,6 @@
 {
   "project_id" : "test",
-  "conduit_uri" : "http://phab.local/"
+  "conduit_uri" : "http://phab.local/",
+  "history.immutable" : true
 }
 
