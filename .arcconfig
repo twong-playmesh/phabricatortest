@@ -1,6 +1,7 @@
 {
   "project_id" : "test",
   "conduit_uri" : "http://phab.local/",
-  "history.immutable" : true
+  "history.immutable" : true,
+  "arc.land.onto.default" : "phonybranch"
 }
 
