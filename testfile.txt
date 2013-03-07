@@ -1,6 +1,7 @@
 testfile.txt
 
 add another thing
+add something
 
 adding something and pushing to upstream directly.
 Inserting a modification here.
